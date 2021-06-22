@@ -14,13 +14,13 @@
  */
 
 // Comma-separated Email addresses of owner and any additional recipients for notification when the audit completes
-var NOTIFICATION_RECIPIENTS = "n_young+needssignature@uncg.edu"; // user@domain.com
+var NOTIFICATION_RECIPIENTS = "thefhtamim@gmail.com"; // user@domain.com
 // Drive folder to look for files first, for notifications to be sent about
-var GOOGLE_DRIVE_FOLDER_ID_START = "1XY2HpDgQmyymxIS3uQlRNbk2lD8UKq7f"; // 1QmyQlRk2lDymxIS3uXY2HpNbDg8UKq7f
+var GOOGLE_DRIVE_FOLDER_ID_START = "1o8olAriTEpkoi5Ic-8ezYqcm6aUocxYm"; // 1QmyQlRk2lDymxIS3uXY2HpNbDg8UKq7f
 // Drive folder to move files to after notification is sent
-var GOOGLE_DRIVE_FOLDER_ID_FINISH = "1bHaiAKdfezQi7R4Ph2yUV6HUv8Tvbp4A"; // xIDg8UKq7fS3uXY21QmyQlRk2lDymHpNb
+var GOOGLE_DRIVE_FOLDER_ID_FINISH = "1o8olAriTEpkoi5Ic-8ezYqcm6aUocxYm"; // xIDg8UKq7fS3uXY21QmyQlRk2lDymHpNb
 // URL to link to in email (might be the same as one of the folders above)
-var EMAIL_LINK_URL = "https://drive.google.com/drive/folders/1bHaiAKdfezQi7R4Ph2yUV6HUv8Tvbp4A"; // "https://drive.google.com/drive/folders/xIDg8UKq7fS3uXY21QmyQlRk2lDymHpNb"
+var EMAIL_LINK_URL = "https://drive.google.com/drive/folders/1o8olAriTEpkoi5Ic-8ezYqcm6aUocxYm"; // "https://drive.google.com/drive/folders/xIDg8UKq7fS3uXY21QmyQlRk2lDymHpNb"
 // email subject line
 var EMAIL_SUBJECT = 'Signature Needed Notification (Google Drive)'; // Signature Needed Notification (Google Drive)
 // email footer text
